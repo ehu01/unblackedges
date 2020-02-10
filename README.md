@@ -24,8 +24,10 @@ FILES:
 
 bit2.h 
     - Interface of Bit2, a two-dimensional bit array. 
+    
 bit2.c
     - Implementation of Bit2. Uses David Hanson's 'bit' abstract data type.
+    
 unblackedges.c
     - Removes black edge pixels from a given Portable Bitmap (PBM) using the Bit2 interface.
     
