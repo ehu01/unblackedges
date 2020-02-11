@@ -1,8 +1,9 @@
 * COMP40: Machine Structure and Assembly-Language Programming
 * Homework 2: Unblackedges - using an interface we created to remove black edges
 *
-* By: Emily Hu
-* Date: 7 December 2019
+* By:      Emily Hu
+* Partner: Elizabeth Endo
+* Date:    7 December 2019
 *
 * README
 
@@ -46,3 +47,5 @@ pixel. A black edge pixel is defined as any black pixel which is either in row 0
 in column 0 or column w-1 (for an image with height h and width w) OR a black pixel which 
 neighbors another black pixel. 
 
+I worked collaboratively on this assignment with my programming partner, Elizabeth Endo. We
+worked together on all parts of the assignment and contributed equally to it.
