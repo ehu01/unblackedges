@@ -14,7 +14,7 @@
 #include <assert.h>
 #include <bit.h>
 
-#include "Bit2.h"
+#include "bit2.h"
 
 struct Bit2_T {
     int width;
