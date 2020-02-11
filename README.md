@@ -1,5 +1,5 @@
 * COMP40: Machine Structure and Assembly-Language Programming
-* Homework 2: Unblackedges - using an interface we created to remove black edges
+* Homework 2: Unblackedges - Removing black edge pixels from a Portable Bitmap image
 *
 * By:      Emily Hu
 * Partner: Elizabeth Endo
